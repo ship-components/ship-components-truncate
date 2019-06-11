@@ -1,7 +1,9 @@
 # ship-components-truncate
-[React](http://facebook.github.io/react/) select box. Exports a component that can be used for truncating string and text inputs (comments, descriptions, etc.)
+Exports a component that can be used for truncating string and text inputs (comments, descriptions, etc.)
 
-## Getting started
+[![npm](https://img.shields.io/npm/v/ship-components-truncate.svg)](https://www.npmjs.com/package/ship-components-truncate)
+[![Build Status](http://img.shields.io/travis/ship-components/ship-components-truncate/master.svg?style=flat)](https://travis-ci.org/ship-components/ship-components-truncate)
+[![Coverage](http://img.shields.io/coveralls/ship-components/ship-components-truncate.svg?style=flat)](https://coveralls.io/github/ship-components/ship-components-truncate)
 
 ### Install dependencies and modules
 To get started, navigate to the root directory of the project and run the following command to install the packages with npm:
@@ -17,6 +19,9 @@ $ npm run start
   
 Examples can be found in the `examples/` folder. 
 
+## Changelog
+
+- 0.1.3: Initial commit
 
 ## Usage
 
