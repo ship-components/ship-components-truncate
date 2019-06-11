@@ -1,6 +1,6 @@
 {
   "name": "ship-components-truncate",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Truncate comments and strings",
   "main": "src/Truncate.js",
   "scripts": {

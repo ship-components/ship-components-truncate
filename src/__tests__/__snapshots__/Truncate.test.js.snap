@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Truncate renders correctly 1`] = `
+<span>
+  lorem ipsum...
+</span>
+`;
