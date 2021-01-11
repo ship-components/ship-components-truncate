@@ -16,11 +16,12 @@ After running the command above, run the following command in and navigate to ht
 ```shell
 $ npm run start
 ```
-  
-Examples can be found in the `examples/` folder. 
+
+Examples can be found in the `examples/` folder.
 
 ## Changelog
 
+- 0.1.5: Removed node deps, fixed security issue, removed extra white spaces
 - 0.1.3: Initial commit
 
 ## Usage
