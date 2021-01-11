@@ -21,7 +21,7 @@ Examples can be found in the `examples/` folder.
 
 ## Changelog
 
-- 0.1.5: Removed node deps
+- 0.1.5: Removed node deps, fixed security issue, removed extra white spaces
 - 0.1.3: Initial commit
 
 ## Usage
